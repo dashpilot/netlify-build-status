@@ -14,6 +14,10 @@ If you use Netlify in your build process, this module provides an alternative to
 
 To use this Node module you need a Netlify API token (User Settings > Applications > Personal Access Tokens) and your Netlify site id (Settings > General > Site Details > API ID)
 
+# Install via npm
+
+    npm install netlify-build-status
+
 # Example
 
 ```javascript
