@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get the current status of your Netlify build",
   "main": "index.js",
+  "repository": "dashpilot/netlify-build-status",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +11,12 @@
   "license": "MIT",
   "dependencies": {
     "netlify": "^3.0.0"
-  }
+  },
+  "keywords": [
+    "netlify",
+    "netlify-cms",
+    "build",
+    "status",
+    "jamstack"
+  ]
 }
