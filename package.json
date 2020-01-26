@@ -1,0 +1,14 @@
+{
+  "name": "netlify-build-status",
+  "version": "1.0.0",
+  "description": "Get the current status of your Netlify build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerben Schmidt",
+  "license": "MIT",
+  "dependencies": {
+    "netlify": "^3.0.0"
+  }
+}
