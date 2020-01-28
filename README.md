@@ -21,7 +21,7 @@ To use this Node module you need a Netlify API token (User Settings > Applicatio
 # Example
 
 ```javascript
-const getStatus = require('@dashpilot/netlify-build-status')
+const getStatus = require('netlify-build-status')
 const token = 'YOUR_NETLIFY_TOKEN';
 const site_id = 'YOUR_SITE_ID';
 
